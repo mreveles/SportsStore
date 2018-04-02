@@ -13130,11 +13130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CIDM3312\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\CIDM3312\\SportsStore\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "c:\\CIDM3312\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectPath": "C:\\CIDM3312\\SportsStore\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "c:\\CIDM3312\\SportsStore\\SportsStore\\obj\\",
+      "outputPath": "C:\\CIDM3312\\SportsStore\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
