@@ -1,0 +1,10 @@
+C:\CIDM3312\SportsStore\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\CIDM3312\SportsStore\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\CIDM3312\SportsStore\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\CIDM3312\SportsStore\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\CIDM3312\SportsStore\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
