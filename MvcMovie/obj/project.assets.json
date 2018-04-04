@@ -13115,28 +13115,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Miguel\\.nuget\\packages\\": {},
+    "C:\\windows\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CIDM3312\\SportsStore\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\CIDM3312\\SportsStore\\SportsStore\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\CIDM3312\\SportsStore\\MvcMovie\\MvcMovie.csproj",
-      "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\CIDM3312\\SportsStore\\MvcMovie\\obj\\",
+      "projectPath": "C:\\CIDM3312\\SportsStore\\SportsStore\\MvcMovie\\MvcMovie.csproj",
+      "packagesPath": "C:\\windows\\system32\\config\\systemprofile\\.nuget\\packages\\",
+      "outputPath": "C:\\CIDM3312\\SportsStore\\SportsStore\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\windows\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
