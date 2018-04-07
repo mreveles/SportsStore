@@ -8,3 +8,8 @@ C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoIn
 C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
 C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
 C:\CIDM3312\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\CIDM3312\SportsStore\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\CIDM3312\SportsStore\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\CIDM3312\SportsStore\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\CIDM3312\SportsStore\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\CIDM3312\SportsStore\SportsStore\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
