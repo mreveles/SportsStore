@@ -21,11 +21,10 @@ namespace SportsStore
         public IConfiguration Configuration { get; }
 
         public void ConfigureServices(IServiceCollection services){
-            services.AddMvc();
             services.AddDbContext<ApplicationDbContext>(options =>
                     options.UseSqlite("Data Source=SportsStore.db"));
             services.AddTransient<IProductRepository, EFProductRepository>();
-
+            services.AddMvc();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
