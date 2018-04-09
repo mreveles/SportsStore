@@ -10,7 +10,7 @@ using System;
 namespace SportsStore.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20180401005335_InitialCreate")]
+    [Migration("20180409022359_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
